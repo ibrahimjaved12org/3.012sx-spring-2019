@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 0a9f1d7b-b2d2-40b2-9633-8cfac5b96c0f
+  name: 'Part 1: Fundamentals of Materials Structure'
+  pageRef: /external-resources/part-1-fundamentals-of-materials-structure_0a9f1d7b-b2d2-40b2-9633-8cfac5b96c0f
+  weight: 10
+- identifier: 6de5ea7b-4c61-4b41-a9c5-64da007d591c
+  name: 'Part 2: The Crystalline State'
+  pageRef: /external-resources/part-2-the-crystalline-state_6de5ea7b-4c61-4b41-a9c5-64da007d591c
+  weight: 20
+- identifier: 436482f9-f944-4912-8b0b-beef71c332d1
+  name: 'Part 3: Liquid Crystals, Defects, and Diffusion'
+  pageRef: /external-resources/part-3-liquid-crystals-defects-and-diffusion_436482f9-f944-4912-8b0b-beef71c332d1
+  weight: 30
